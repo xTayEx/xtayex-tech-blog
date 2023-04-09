@@ -3,8 +3,9 @@ title: "About"
 summary: about
 ---
 
-<h1 align="center">Hi 👋, I'm xtayex</h1>
-<h3 align="center">A postgraduate in East China Normal University</h3>
+
+# Hi 👋, I'm xtayex
+### A postgraduate in East China Normal University
 
 - 🔭 I’m currently working on [RuNet](https://github.com/xTayEx/RuNet)
 
