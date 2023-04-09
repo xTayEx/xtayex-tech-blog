@@ -6,6 +6,17 @@ theme = 'PaperMod'
 [params]
 ShowReadingTime = true
 
+[languages.en.menu]
+[[languages.en.menu.main]]
+name = "Archive"
+url = "archives"
+weight = 5
+
+[[languages.en.menu.main]]
+name = "About"
+url = "about/"
+weight = 5
+
 [params.homeInfoParams]
 Title = "Hi there 👋"
 Content = "Welcome to my blog"
