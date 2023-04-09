@@ -2,3 +2,7 @@ baseURL = 'https://xtayex-tech-blog.vercel.app/'
 languageCode = 'en-us'
 title = 'xtayex Tech Blog'
 theme = 'PaperMod'
+
+[params.homeInfoParams]
+Title = "Hi there 👋"
+Content = "Welcome to my blog"
